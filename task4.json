@@ -1,26 +1,22 @@
 [
     {
-        "title": "Sharp Objects",
-        "price": "\u00a347.82",
-        "stock avialability": "\u2714 In stock",
-        "button_text": "Add to basket"
+        "name": "username",
+        "input type": "text",
+        "default values": null
     },
     {
-        "title": "In a Dark, Dark Wood",
-        "price": "\u00a319.63",
-        "stock avialability": "\u2714 In stock",
-        "button_text": "Add to basket"
+        "name": "password",
+        "input type": "password",
+        "default values": null
     },
     {
-        "title": "The Past Never Ends",
-        "price": "\u00a356.50",
-        "stock avialability": "\u2714 In stock",
-        "button_text": "Add to basket"
+        "name": "terms",
+        "input type": "checkbox",
+        "default values": null
     },
     {
-        "title": "A Murder in Time",
-        "price": "\u00a316.64",
-        "stock avialability": " Out stock",
-        "button_text": "Add to basket"
+        "name": null,
+        "input type": "submit",
+        "default values": "Submit"
     }
 ]
